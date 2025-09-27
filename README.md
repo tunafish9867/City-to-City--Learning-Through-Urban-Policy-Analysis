@@ -139,5 +139,3 @@ This project demonstrates how **text mining of ordinances** can:
 * Support **data-driven governance**, and
 * Contribute to achieving **SDG 16: Peace, Justice, and Strong Institutions**.
 
----.
-
